@@ -13,7 +13,6 @@ public class Main {
 //		}
 //		return false;
 //	}
-	//hvbjj
 	
 	private static void Lecture(Base b) {
 		Scanner sc = new Scanner(System.in);
